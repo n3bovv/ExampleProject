@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("Check changes!");
+int a = 113;
+        int b = 56;
+        System.out.println(a - b);
     }
 }
